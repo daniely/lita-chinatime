@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["robotright@gmail.com"]
   spec.description   = %q{Display current time in China}
   spec.summary       = %q{Display current time in China}
-  spec.homepage      = "TODO: Add a homepage"
+  spec.homepage      = "https://github.com/daniely/lita-chinatime"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 

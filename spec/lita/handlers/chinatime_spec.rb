@@ -32,7 +32,7 @@ HTML
 
       send_command('chinatime')
 
-      expect(replies.last).to eq(' 8 Mar 201410:03:45 PM')
+      expect(replies.last).to eq(' 8 Mar 2014 10:03:45 PM')
     end
   end
 end

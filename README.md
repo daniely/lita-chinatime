@@ -12,7 +12,7 @@ gem "lita-chinatime"
 
 ## Usage
 
-* `Lita: chinatime` - return current time in China ` 8 Mar 201410:03:45 PM`
+* `Lita: chinatime` - return current time in China ` 8 Mar 2014 10:03:45 PM`
 
 ## License
 

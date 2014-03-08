@@ -24,7 +24,7 @@ module Lita
       end
 
       def format_date_time(date_time)
-        date_time.strftime('%e %b %Y%l:%m:%S %p')
+        date_time.strftime('%e %b %Y %l:%m:%S %p')
       end
 
       def error
